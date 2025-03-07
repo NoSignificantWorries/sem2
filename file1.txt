@@ -1,10 +1,10 @@
 File1 created!
 
-01. Initial
-02. Line 4
-02. Line 5
-02. Line 6
-02. Line 7
-02. Line 8
-03. Line 1
+01. Initial.
+02. Line 4.
+02. Line 5. To stash. (feat. 3)
+02. Line 6. Keep it. (feat. 2)
+02. Line 7. To stash. (feat. 3)
+02. Line 8.
+03. Line 1.
 
