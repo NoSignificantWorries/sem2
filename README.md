@@ -1,4 +1,4 @@
 # This is README for main branch
 
-Some text for commit for cherry-piccing
+Some text for commit not for cherry-piccing
 
