@@ -3,3 +3,5 @@ File3 created
 01. Init
 05. Line 1
 
+*02 - This for stash 02
+
